@@ -1,4 +1,4 @@
-package drums
+package factory
 
 type IDrum interface {
 	setName(name DrumType)

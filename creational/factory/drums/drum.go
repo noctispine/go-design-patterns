@@ -1,4 +1,4 @@
-package drums
+package factory
 
 type Drum struct {
 	name DrumType
