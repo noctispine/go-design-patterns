@@ -1,4 +1,4 @@
-package drums
+package factory
 
 type DrumType string
 
